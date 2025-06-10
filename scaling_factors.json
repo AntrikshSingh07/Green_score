@@ -1,0 +1,17 @@
+{
+  "Transportation": 1.1,
+  "Information Technology": 1.2,
+  "Manufacturing": 0.9,
+  "Energy": 0.7,
+  "Retail": 1.0,
+  "Healthcare": 1.15,
+  "Construction": 0.85,
+  "Agriculture": 0.8,
+  "Telecommunications": 1.05,
+  "Education": 1.2,
+  "Media": 1.1,
+  "Mining": 0.65,
+  "Government": 1.0,
+  "Waste Management": 0.75,
+  "Finance": 1.3
+}

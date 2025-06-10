@@ -1,0 +1,319 @@
+{
+  "source": "ENE_Co_1",
+  "sink": "RET_Co_3",
+  "max_flow": 8.58852,
+  "paths": [
+    {
+      "path": ["ENE_Co_1", "ENE_Co_9", "RET_Co_3"],
+      "flow": 0.03673
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_17", "RET_Co_3"],
+      "flow": 1.04930
+    },
+    {
+      "path": ["ENE_Co_1", "INF_Co_5", "RET_Co_3"],
+      "flow": 0.11542
+    },
+    {
+      "path": ["ENE_Co_1", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.06296
+    },
+    {
+      "path": ["ENE_Co_1", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.09444
+    },
+    {
+      "path": ["ENE_Co_1", "INF_Co_10", "RET_Co_3"],
+      "flow": 0.19937
+    },
+    {
+      "path": ["ENE_Co_1", "INF_Co_16", "RET_Co_3"],
+      "flow": 0.13641
+    },
+    {
+      "path": ["ENE_Co_1", "FIN_Co_9", "RET_Co_3"],
+      "flow": 0.05771
+    },
+    {
+      "path": ["ENE_Co_1", "FIN_Co_19", "RET_Co_3"],
+      "flow": 0.18363
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_4", "ENE_Co_7", "RET_Co_3"],
+      "flow": 0.14690
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_4", "ENE_Co_10", "RET_Co_3"],
+      "flow": 0.06820
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_4", "ENE_Co_11", "RET_Co_3"],
+      "flow": 0.03673
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_4", "ENE_Co_13", "RET_Co_3"],
+      "flow": 0.01049
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_9", "ENE_Co_11", "RET_Co_3"],
+      "flow": 0.04722
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "ENE_Co_13", "RET_Co_3"],
+      "flow": 0.13116
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "ENE_Co_15", "RET_Co_3"],
+      "flow": 0.04197
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "INF_Co_1", "RET_Co_3"],
+      "flow": 0.08394
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "INF_Co_10", "RET_Co_3"],
+      "flow": 0.00525
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "INF_Co_13", "RET_Co_3"],
+      "flow": 0.05246
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "INF_Co_19", "RET_Co_3"],
+      "flow": 0.05246
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "FIN_Co_1", "RET_Co_3"],
+      "flow": 0.08919
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "FIN_Co_15", "RET_Co_3"],
+      "flow": 0.06820
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "INF_Co_1", "RET_Co_3"],
+      "flow": 0.05246
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.14166
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.12067
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "INF_Co_18", "RET_Co_3"],
+      "flow": 0.21511
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "FIN_Co_15", "RET_Co_3"],
+      "flow": 0.01574
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_16", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.15215
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_17", "INF_Co_15", "RET_Co_3"],
+      "flow": 0.11542
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_17", "INF_Co_18", "RET_Co_3"],
+      "flow": 0.23609
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_17", "FIN_Co_9", "RET_Co_3"],
+      "flow": 0.05771
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_18", "INF_Co_8", "RET_Co_3"],
+      "flow": 0.07345
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_18", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.03148
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_18", "FIN_Co_2", "RET_Co_3"],
+      "flow": 0.04722
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_19", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.05246
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_19", "INF_Co_16", "RET_Co_3"],
+      "flow": 0.10493
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_19", "INF_Co_18", "RET_Co_3"],
+      "flow": 0.01574
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_20", "INF_Co_1", "RET_Co_3"],
+      "flow": 0.13641
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_20", "INF_Co_8", "RET_Co_3"],
+      "flow": 0.12067
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_20", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.17313
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_1", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.23609
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_3", "INF_Co_1", "RET_Co_3"],
+      "flow": 0.05246
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_3", "INF_Co_16", "RET_Co_3"],
+      "flow": 0.01049
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_4", "INF_Co_8", "RET_Co_3"],
+      "flow": 0.04722
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_4", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.01574
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_6", "INF_Co_1", "RET_Co_3"],
+      "flow": 0.14166
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_8", "INF_Co_5", "RET_Co_3"],
+      "flow": 0.12592
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_8", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.14690
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_10", "INF_Co_8", "RET_Co_3"],
+      "flow": 0.01049
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_10", "INF_Co_16", "RET_Co_3"],
+      "flow": 0.08919
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_14", "INF_Co_1", "RET_Co_3"],
+      "flow": 0.06296
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_15", "INF_Co_1", "RET_Co_3"],
+      "flow": 0.03148
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_15", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.14166
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_15", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.29380
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_19", "INF_Co_16", "RET_Co_3"],
+      "flow": 0.04722
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_20", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.51416
+    },
+    {
+      "path": ["ENE_Co_1", "MAN_Co_20", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.02099
+    },
+    {
+      "path": ["ENE_Co_1", "INF_Co_3", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.05771
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "ENE_Co_15", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.07345
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "ENE_Co_19", "INF_Co_18", "RET_Co_3"],
+      "flow": 0.12592
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_2", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.11018
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_4", "INF_Co_9", "RET_Co_3"],
+      "flow": 0.04197
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_4", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.16264
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_9", "INF_Co_16", "RET_Co_3"],
+      "flow": 0.06820
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_15", "INF_Co_16", "RET_Co_3"],
+      "flow": 0.33053
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_16", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.08394
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_18", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.06820
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_20", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.04197
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "MAN_Co_20", "INF_Co_18", "RET_Co_3"],
+      "flow": 0.03673
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "INF_Co_10", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.13641
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_12", "INF_Co_12", "INF_Co_18", "RET_Co_3"],
+      "flow": 0.08394
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "ENE_Co_15", "INF_Co_7", "RET_Co_3"],
+      "flow": 0.04197
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "ENE_Co_15", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.11542
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "MAN_Co_5", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.19937
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "MAN_Co_6", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.07870
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_14", "MAN_Co_11", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.02623
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_17", "MAN_Co_4", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.07345
+    },
+    {
+      "path": ["ENE_Co_1", "ENE_Co_17", "MAN_Co_5", "INF_Co_11", "RET_Co_3"],
+      "flow": 0.01049
+    }
+  ]
+}
